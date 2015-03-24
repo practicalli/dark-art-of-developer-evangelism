@@ -1,0 +1,296 @@
+* Black art of developer evangelism
+
+
+* What is a developer evangelist 
+
+Evangelism tends to be what each evangelist make is.  
+
+A lot of what an evangelist does is based on their own character, or what they have built up to be their own brand.
+
+The closer you get to seem like you are marketing or evangelising something,
+the further away you are getting from your audience.
+
+This is the primary reason for the book title, when done well no one should know 
+that you are doing developer evangelisim.
+
+I think of it as an art form because the value of evangelism is not scientifically provable,
+just like all of statistics it is a mater of how you interpret the data that is generated.
+
+There is plenty of scope to include valuable data analysis of a developer outreach program though.
+
+* Character over branding 
+
+Better to build on and grow your positive natural instincts and abiltities than to try create a brand based on images that you believe you should be, or worse still what others say you should be.
+
+* What kind of person becomes an evangelist 
+
+I became an evangelist becase someone wanted to pay me to do what I was already doing.  I quit my boring job and started working in the developer community full time.  
+I started organising events and helping others put on great events too.
+
+I love working in the IT industry as to me is the most facinating place a person can be.  You can make a real difference to peoples lives with the things you create, you can enalbe people and buisnesses to grow and thrive and help their people prosper.  You can make peoples jobs enjoyable and highly rewarding.  
+
+Or you can make them want to quit by delivering crap.
+
+I also wanted to inspire developers to have a great career.  There are too many developers that feel they are stuck in boring jobs and boring companies, they know this because when they wake up in the moring the last thing they want to do is go to work.  Only the mortgage or the rent (or to excape from the children) is the motivation to get out of the house.
+
+It doesnt have to be like this.  As I have said, working in IT there are so many opportunites and most of them are very interesting (although there are still too many that are tedious and boring.)
+
+So for me, one of the most important underpinnings of developer evangelism is to motivate and inspire developers to have great careers.
+
+Working in this industry is not easy, it takes some amount of effort to get the good jobs, but if you put that effort in then your career becomes significantly more rewarding.
+
+## Passionate, for want of a better words
+
+Someone who has great enthusiasm for something and wants to share that with others in many ways.
+
+One way to show you are successful it to have an army of unpaid evangelists doing your work for you.
+
+** Raving Fans - book reference
+
+* Becoming a Developer Evangelist 
+
+Find something you love doing and talking about to others and practice different ways of communicating that to a wider range of people.
+
+* Inspring your audience 
+
+
+
+* Knowing what your busines really values
+You arent going to be able to justify your existance as an evangelist or define what value you
+provide without knowing what it is that your organisation values.
+
+There are many general terms for that are used by your organisation to convey the 
+
+- Company Culture
+- Alignment
+- brand 
+- Strategic appraoch (and being tactical when you go off at a tangent to these values) 
+
+Essentailly is a fancy way of stating that you all need to work together to a common goal (or goals) that support the over-riding thing the company wants to portray.
+
+This may be a brand, a tangible metric or several combinations of both.
+
+If your organisation does not know what it values then provide them with some basic metrics and explination that help them evaluate the different types of activities you do, then you have something to talk around and get feedback from your organisation.
+
+Share your values and metrics with more than just your manager to get a wider range of feedback on what you are doing
+and help your organisation understand and value it.
+
+* Knowing your audience and what they care about 
+
+
+* Dont beieve your own hype 
+
+Take a little time to understand how others actually percieve you.  If your branding is that you are a cool and hipster company, do others actually see you that way.  If they do see you that way, is it important to them that you are that way?
+
+Always consider your audience when trying to get them enthusiastic and dont try and pretend to be something you just arent (or where no one sees you that way).  Pretty Fly for a white guy - The Offspring.
+
+* Building and internal community
+
+Even if you are a small company you can stil have a community, it only needs two people.  With a larger company there is scope for not just a single community but a collection of communities.  Either way there should be no limits on what you cover, so long as its relevant to what you are trying to achive as a company.
+
+(Note: retaining the right staff is usually a high priority for a company, so anything that retains the right staff is probably relevant).
+
+
+* Metrics: Small numbers are more powerful
+
+There are many situations where metrics can help you guage the success of your outreach, however these figures should be balanced against the value of the thing you are measuring.
+
+For example - number of apps in your app store
+Having a lot of apps in your app store is a good sign of a healthy community around your platform.  However, identifying how many people are sustainably employed purly from apps in your app store is a much more powerful story, even though the numbers are much smaller than the total number of apps in the store.
+
+Having thousands of people read your blogs is great, however having a handful of  people from your developer community regulary contribute posts is much more effective.  Hearing from people outside the organisation is always more powerful in the minds of your audience and the wider developer audience too.
+
+These activities behind these smaller numbers take more time to build and are therefore less "scalable", however they are much more valuable to the audience you are seeking to inspire.
+
+
+* Geographical teams
+Having teams in different geographical locations is important, as they will understand the culture of that region better.
+
+Its not that important to translate or to fly people in, its more about treating that region as important enough to have troops in the area.
+
+Geographical teams should of course work in harmony with the overal organisation however they should not be constrained by being considered an extension of the main geographical team.  In doing so you constrain communication and the ability to be proactive in their regoin.  If it takes half a day or longer to start having converstations and usually twice as long to make any decisions then less will be done as you end up playing a game of ping-poing...
+
+
+* Affinity is not scalable
+
+just like server affinity, you are limited in how much you can really scale and still be effective when creating fans of your product.
+
+Its easier to scale activities that discuss your limited and personal activities that drive affinity.
+
+
+
+* Build a routine
+
+There is a lot of change in this role, so try and establish some routine
+
+- regular user group meetings.
+- a day a week where you do familiar & fun tasks 
+
+
+
+* Death of a thousand paper cuts 
+
+Unless you are an armchair evangelist then you will spend a good part of your time travelling.  All that travelling means lots of expenses to claim.
+
+This has got to be one of the most valueless time drains for an evangelist.
+
+However, there are lots of tricks to make this less of a drain on your time.
+
+
+** Avoid spreadsheet expenses
+
+Spreadsheets in general deserve to be keept in the stone age of IT.  
+
+Using spreadheets you ent up numbering all your receipts so that when you scan them the poor person who has to go through them all will know which is which - and if you dont number them then you will find your expences get procesed at the back of the queue.
+
+** Invest in a good expenses tool
+
+should be linked to your credit card, so each expense is automatically captured.  Then all you have to do is attach a digital copy of your reciept.
+
+** Have a human expenses policy
+
+Set minimum limits for expenses to require receipts.  Hopefully your company trust you (otherwise why on earth did they hire you), so why should you have to go through the slow process of attaching reciepts for all the little things (eg. snacks you get on the run because you are too busy to have lunch, a few drinks you buy for people because is the no-brainer thing to do, etc)
+
+Dropping the need for all the little cost can turn a hours work of expenses into a few minutes.
+
+** Photograph your receipts 
+
+Take photos of all your reciepts so that you already have a digital copy right there and then.  Scanning reciepts is a chore and even if you try and parm scanning on your children or other loved ones, they will quickly rebel.
+
+** There is an app for that
+
+Get an expenses system that has a mobile app.  If it can be tied to your phones camera then even better.
+
+
+* Bastardised Quotes
+
+** All the worlds a stage and developers are all evangelists
+
+
+** If you pull on just one single thread you see how much the world is connected.
+
+** In China they killed all the sparrows, after a few years the locus overran the country and 36 million died of starvation.
+One thing can have a huge impact, only doing one thing can have a devastating impact.  If you dont understand the situation, dont to anything too drastic.
+
+
+** We are all connecting more widely, but its not the same as connecting deeply
+I can potentially reach thousands of people via social media, but it is so much harder to make a real and lasting conneciton.
+
+In person you can make a very deep impression, enabling real change in others.
+
+
+
+** Burnout 
+You wil burn out, deal with it.  Make sure you use your holidays wisely
+- do high level plans for at least 6 months in advance
+- continuous light-weight planning will help you build in slack time and still be flexible enough for a developer evangelist role.  Take a look at the concept called Rolling Wave planning.
+
+
+
+* Search Engine Optomisation - SEO 
+
+Dont get obsessed with search engine optionisation, its very rarely worth it.  That said, understanding a few simple techniques will get you 95% of what you need for effective SEO.
+
+
+
+Brett Hardin, October 30, 2012
+
+I write code at KISSmetrics and love writing about what I learn.
+
+** SEO: Layout and Site Tips
+
+*** Understand Keywords
+Keywords are the fundamental thing to understand about SEO. Keywords are the terms people search for in order to find your site.
+
+You should use keywords a few times in your post. DO NOT over do keywords. There is nothing worse than finding a page that is specifically trying to game the engine. Your content will look nasty and unreadable to humans. If you don't follow this advice I guarantee you at some point you will be penalized by Google.
+
+In order to get the long tail use a keyword phrase. A keyword phrase is going to be 3 to 4 words grouped together that people would search for in order to find your content. Use this phrase at most 2 - 4 times throughout the content of your page. That's it.
+
+This should happen naturally as your write. Don't over do it, the content looks lame and unnatural if you do. I don't even think about keywords when I write anymore. I just write. 
+
+
+*** Title Tag
+The title of your post is the most important factor. You want whatever content you are writing about to be in the title of the page. A title is the first thing humans look at to determine whether what they are about to read is interesting to them. Like humans, search engines use the title for indexing relevant content to keywords. Whatever your post is about should be prominent in the title of the post.
+
+Also, don't put your brand name before what the content is about. The closer the word is to the left of the title the more relevant the content must be.
+
+Good: SEO: A Quick Blog Primer - Constantly Learning
+
+Bad: Constantly Learning - SEO: A Quick Blog Primer
+
+
+*** Permalink Structure
+The title of your post should be in the url. Wordpress and most modern blog frameworks, including Jekyll by default put the title of the post in the url.
+
+Good: http://www.mysite.com/maximizing-seo/
+
+Bad: http://www.mysite.com/11345/p207.html
+
+*** Alt Tags on Images 
+Tag all of your images with an alt tag. Search engines use alt tags for credit towards the keywords.
+
+Example
+
+ <img src="http://mysite.com/coolpic.jpg" alt="cool pic" title="cool pic">
+Alt tags for images can be done fairly simple in Jekyll as follows:
+
+ <img src="http://mysite.com/coolpic.jpg" alt="{{ page.title }}" title="{{ page.title }}">
+Get Rid of Broken Links
+Web crawlers judge you by the overall impression of your page. Broken links piss off humans just as much as bots. You will often link to content external to your site which you don't control. This is where using Google Webmaster Tools is sweet. Webmaster tools will help you find broken links from and to your site.
+
+
+*** Duplication caused by pagination
+Only do the following if you have a sitemap.xml or else some of your content won't be found. Upon doing research, I found out that google penalizes sites that have duplicate content. This means pagination can screw your site.
+
+With pagination you have multiple pages that have the same content. Google sees a bunch of the same content as bad. A simple fix is to use the rel=next and rel=prev directive on your tags.
+
+**** Example
+
+<a href="/page/1" title="Next Page" class="next" rel="next">Older Posts</a>
+Frequent Updates & Great Content
+Although only technical things have been mentioned the single most important thing you can do is write great content and post frequently.
+
+When people are using search engines they are trying to find a solution to a problem. People tweet things they find interesting. People like things they want to tell their friends about.
+
+Fundamentally people share and find content they are looking for. In order to be the content they find you need to teach them something. Write content that people want to learn and they will share with others. Always keep this in mind when writing content.
+
+*** Link to Your Own Content
+Don't over do this. It looks like crap if you do. If you have more than 1 link per 250 words than you are over doing it.
+
+Links help people and search engines navigate your site. Internal links with good anchor text has an impact on your page position in Google results.
+
+*** One H1?
+Dave Doolin, the author of hRecipe, says:
+
+Matt Cutts states in this video that multiple h1 elements is something Google watches for, and may penalize if the useage [sic] doesn't make sense.
+
+So Google decides what makes sense for layout. Don't over do it.
+
+
+
+Evangelising developers
+One of the most important roles you can do is to evangelist the importance of developers within your own organisation.  Hopefully the importance of developers is at least basically understood otherwise why did they employ a developer evangelist.
+
+So what does evangelising developers involve?
+
+- helping developers use your technology
+- getting feedback (helping people create bug tracking, forums, twitter, understanding your support channel, feedback in person is the most valuable)
+- understanding the developer experience with your technology - what works, what doesnt, whats great, what is rubish.1`A
+
+* Internal marketing - selling things to yourself
+
+Beware of over marketing to your own team & organisation
+
+Its easy to say everything was awesome... but then nothing is.
+
+You need to understand how others understand what you do - i.e. how do they percieve and value your activities.  If this is not clear, then follow the mantra "everything is awesome"
+
+
+
+
+
+
+
+
+
+
