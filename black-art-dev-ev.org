@@ -1,7 +1,18 @@
-* Black art of developer evangelism
+* Dark art of developer relations
 
 
-* What is a developer evangelist 
+* What is developer relations
+
+Developer relations (DevRel) is a very broad term and includes a wide range of activities.
+
+Essential is an effort to get technical customers and community to be fans of products/services and the Company/Organisation 
+
+
+There are other terms that have been used for these types of activities
+- ambassador
+- evangelist
+
+* What is an evangelist 
 
 Evangelism tends to be what each evangelist make is.  
 
@@ -11,12 +22,13 @@ The closer you get to seem like you are marketing or evangelising something,
 the further away you are getting from your audience.
 
 This is the primary reason for the book title, when done well no one should know 
-that you are doing developer evangelisim.
+that you are doing developer relations.  when done exceptional well, people are doing the DevRel role for you with all the people they meet.
 
-I think of it as an art form because the value of evangelism is not scientifically provable,
-just like all of statistics it is a mater of how you interpret the data that is generated.
+I think of it as an art form because the value of evangelism is not mathematically provable.
 
-There is plenty of scope to include valuable data analysis of a developer outreach program though.
+Statistics are a mater of how you decide to interpret the data that is collected (and the bias applied when it is collected).
+
+There is plenty of scope to include valuable data analysis of a developer outreach program though and it can shape activities, especially those that require a more significant budget (e.g conferences)
 
 * Character over branding 
 
